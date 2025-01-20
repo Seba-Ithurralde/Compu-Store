@@ -1,4 +1,4 @@
-# Proyecto Final React
+# Compu Store
 
 ## Reseña del proyecto:
 
